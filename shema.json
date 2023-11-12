@@ -1,0 +1,71 @@
+{
+  "_id": {
+    "$oid": "650c5375fa8a70d627c6152c"
+  },
+  "all_attributes": {
+    "_registerArt": "HRB",
+    "_registerNummer": "150148",
+    "additional_data": {
+      "AD": true,
+      "CD": true,
+      "DK": true,
+      "HD": false,
+      "SI": true,
+      "UT": true,
+      "VÖ": false
+    },
+    "federal_state": "Hamburg",
+    "native_company_number": "Hamburg HRB 150148",
+    "registered_office": "Hamburg",
+    "registrar": "Hamburg"
+  },
+  "company_number": "K1101R_HRB150148",
+  "current_status": "currently registered",
+  "jurisdiction_code": "de",
+  "name": "olly UG (haftungsbeschränkt)",
+  "officers": [
+    {
+      "name": "Oliver Keunecke",
+      "other_attributes": {
+        "city": "Hamburg",
+        "firstname": "Oliver",
+        "flag": "vertretungsberechtigt gemäß allgemeiner Vertretungsregelung",
+        "lastname": "Keunecke"
+      },
+      "position": "Geschäftsführer",
+      "start_date": "2018-02-06",
+      "type": "person"
+    }
+  ],
+  "registered_address": "Waidmannstraße 1, 22769 Hamburg.",
+  "retrieved_at": {
+    "$date": "2018-11-09T18:03:03.000Z"
+  },
+  "previous_names": "",
+  "subsequent_registrations": "",
+  "alternate_registrations": "",
+  "website": "https://web2.cylex.de/firma-home/olly-ug--haftungsbeschraenkt--12680822.html",
+  "addresses": [
+    {
+      "street": "waidmannstrasse",
+      "house_number": "1",
+      "postcode": "22769",
+      "city": "hamburg"
+    }
+  ],
+  "websites": [
+    {
+      "protocol": "https",
+      "subdomain": "web2",
+      "domain": "cylex",
+      "tld": "de"
+    }
+  ],
+  "country": "",
+  "founded": "",
+  "industry": "",
+  "linkedin_url": "",
+  "locality": "",
+  "region": "",
+  "size": ""
+}
